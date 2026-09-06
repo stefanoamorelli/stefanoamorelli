@@ -92,4 +92,6 @@ Most recently, I shipped 0->1 the first MCP server for business banking and fina
 - Ownership: to take responsibility of what I do end-to-end;
 - Mastery: to know my craft deeply.
 
+I thrive in chaos and ambiguity. Generally low-ego, I look for the biggest impact I can have in fast-moving, and highly competitive industries.
+
 </details>
