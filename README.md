@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-light.svg" height="32" alt="OpenAI"></picture></td>
-    <td valign="middle"><a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td>
+    <td valign="middle">OpenAI <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="32" alt="AI Security Institute"></td>
