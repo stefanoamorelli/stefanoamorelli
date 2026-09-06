@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="72"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle">OWASP Top 10 LLM <sup><a href="https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/pull/77">(3)</a></sup></td>
+    <td valign="middle">OWASP Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(3)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="72"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
