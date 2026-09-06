@@ -1,25 +1,77 @@
-### Some of my contributions
+<details open>
+<summary><h3>Some of my contributions</h3></summary>
 
-<img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"> NVIDIA `garak` <sup>[ref](https://github.com/NVIDIA/garak/pull/1504)</sup>  
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture> OWASP Top 10 LLM <sup>[ref](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/pull/77)</sup>  
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture> OWASP Top 10 ASI <sup>[ref](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pull/729)</sup>  
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture> AWS `strands-agents` SDK <sup>[ref](https://github.com/strands-agents/harness-sdk/pull/112)</sup>  
-<img src="https://raw.githubusercontent.com/x402-foundation/x402/main/examples/typescript/fullstack/next/public/x402-icon-blue.png" height="32" alt="x402"> `x402` <sup>[ref](https://github.com/x402-foundation/x402/pull/178)</sup>  
-<img src="https://raw.githubusercontent.com/finos/branding/master/finos-logos/icon/FINOS_Icon_RGB.svg" height="32" alt="FINOS"> FINOS AI Governance Framework <sup>[ref](https://github.com/finos/ai-governance-framework/pull/331)</sup>
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
+    <td valign="middle">NVIDIA <code>garak</code> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">ref</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
+    <td valign="middle">OWASP Top 10 LLM <sup><a href="https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/pull/77">ref</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
+    <td valign="middle">OWASP Top 10 ASI <sup><a href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pull/729">ref</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td valign="middle">AWS <code>strands-agents</code> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">ref</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linuxfoundation/ffffff"><img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="32" alt="Linux Foundation"></picture></td>
+    <td valign="middle"><code>x402</code> <sup><a href="https://github.com/x402-foundation/x402/pull/178">ref</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/finos/branding/master/finos-logos/icon/FINOS_Icon_RGB.svg" height="32" alt="FINOS"></td>
+    <td valign="middle">FINOS AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">ref</a></sup></td>
+  </tr>
+</table>
 
-### Some of my talks
+</details>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture> AWS Summit, Zurich <sup>[ref](https://aws.amazon.com/events/summits/zurich/)</sup> Hands-on security patterns  
-<img src="https://cdn.simpleicons.org/claude" height="32" alt="Claude"> Anthropic Code w/ Claude, London <sup>[ref](https://claude.com/code-with-claude/london)</sup> Fighting financial crime with Claude Cowork <sup>[ref](https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork)</sup>  
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture> AWS Agentic AI Security Forum, Zurich <sup>[ref](https://agentic-ai-security-forum-swiss.splashthat.com/)</sup> Securing Agentic AI systems  
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture> AWS Dev Day, Community Day, Copenhagen <sup>[ref](https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience)</sup>, Stockholm <sup>[ref](https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience)</sup>, San Francisco <sup>[ref](https://aws.amazon.com/startups/events/aws-ai-dev-day-san-francisco-mcp-deep-dive)</sup> Multi-Agent AI Systems  
+<details>
+<summary><h3>Some of my talks</h3></summary>
 
-### Communities I represent
+<table>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td valign="middle">AWS Summit, Zurich <sup><a href="https://aws.amazon.com/events/summits/zurich/">ref</a></sup> Hands-on security patterns</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
+    <td valign="middle">Anthropic Code w/ Claude, London <sup><a href="https://claude.com/code-with-claude/london">ref</a></sup> Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">ref</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td valign="middle">AWS Agentic AI Security Forum, Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">ref</a></sup> Securing Agentic AI systems</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td valign="middle">AWS Dev Day, Community Day, Copenhagen <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">ref</a></sup>, Stockholm <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">ref</a></sup>, San Francisco <sup><a href="https://aws.amazon.com/startups/events/aws-ai-dev-day-san-francisco-mcp-deep-dive">ref</a></sup> Multi-Agent AI Systems</td>
+  </tr>
+</table>
 
-<img src="https://cdn.simpleicons.org/claude" height="32" alt="Claude"> Claude Community - Estonia <sup>[ref](https://cc-estonia.org)</sup> as _Anthropic_ Community Ambassador  
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture> AWS User Group Tallinn <sup>[ref](https://www.meetup.com/aws-user-group-tallinn/)</sup> as _AWS User Group Leader_  
+</details>
 
-### A bit about me
+<details>
+<summary><h3>Communities I represent</h3></summary>
+
+<table>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
+    <td valign="middle">Claude Community - Estonia <sup><a href="https://cc-estonia.org">ref</a></sup> as <em>Anthropic</em> Community Ambassador</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td valign="middle">AWS User Group Tallinn <sup><a href="https://www.meetup.com/aws-user-group-tallinn/">ref</a></sup> as <em>AWS User Group Leader</em></td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>A bit about me</h3></summary>
 
 I grew up in a small town in Sicily where I developed my passion for coding at a very young age.
 
@@ -31,16 +83,22 @@ Now I work for [Qonto](https://qonto.com), in our internal AI Lab, building busi
 
 Most recently, I shipped 0->1 the first MCP server for business banking and financial tools in Europe, reaching PMF in the first month, with a current MoM adoption growth of >150%.
 
-### Values I believe in
+</details>
+
+<details>
+<summary><h3>Values I believe in</h3></summary>
 
 - Safety: to build technology that benefits its end users and that we can trust as society;
 - Ownership: to take responsibility of what I do end-to-end;
 - Mastery: to know my craft deeply.
 
-I thrive in chaos and ambiguity. Generally low-ego, I like fast-moving, competitive markets, and search for the biggest impact.
+</details>
 
-### Contact
+<details>
+<summary><h3>Contact</h3></summary>
 
 `stefano@amorelli.tech`
 `stefano.amorelli@owasp.org`
 `stefano@linux.com`
+
+</details>
