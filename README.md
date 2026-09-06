@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle">OWASP Top 10 ASI <sup><a href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pull/729">(3)</a></sup></td>
+    <td valign="middle">OWASP Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(3)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
@@ -24,7 +24,15 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/finos/branding/master/finos-logos/icon/FINOS_Icon_RGB.svg" height="32" alt="FINOS"></td>
-    <td valign="middle">FINOS AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(6)</a></sup></td>
+    <td valign="middle">FINOS AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(6)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(7)</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-light.svg" height="32" alt="OpenAI"></picture></td>
+    <td valign="middle"><code>promptfoo</code> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(8)</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi-light.svg" height="32" alt="AI Security Institute"></picture></td>
+    <td valign="middle">AISI <code>inspect_evals</code> (MCPTox) <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(9)</a></sup></td>
   </tr>
 </table>
 
@@ -36,23 +44,23 @@
 <table>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Summit, Zurich</b> <sup><a href="https://aws.amazon.com/events/summits/zurich/">(7)</a></sup> Hands-on security patterns</td>
+    <td valign="middle"><b>AWS Summit, Zurich</b> <sup><a href="https://aws.amazon.com/events/summits/zurich/">(10)</a></sup> Hands-on security patterns</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
-    <td valign="middle"><b>Anthropic Code w/ Claude, London</b> <sup><a href="https://claude.com/code-with-claude/london">(8)</a></sup> Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">(9)</a></sup></td>
+    <td valign="middle"><b>Anthropic Code w/ Claude, London</b> <sup><a href="https://claude.com/code-with-claude/london">(11)</a></sup> Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">(12)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Agentic AI Security Forum, Zurich</b> <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(10)</a></sup> Securing Agentic AI systems</td>
+    <td valign="middle"><b>AWS Agentic AI Security Forum, Zurich</b> <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(13)</a></sup> Securing Agentic AI systems</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Dev Day, Copenhagen</b> <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(11)</a></sup> <b>&amp; Stockholm</b> <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(12)</a></sup> Multi-Agent AI Systems</td>
+    <td valign="middle"><b>AWS Dev Day, Copenhagen</b> <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(14)</a></sup> <b>&amp; Stockholm</b> <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(15)</a></sup> Multi-Agent AI Systems</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Community Day, San Francisco</b> <sup><a href="https://www.aws-cscd.com/">(13)</a></sup> OWASP Top 10 for Agentic AI</td>
+    <td valign="middle"><b>AWS Community Day, San Francisco</b> <sup><a href="https://www.aws-cscd.com/">(16)</a></sup> OWASP Top 10 for Agentic AI</td>
   </tr>
 </table>
 
@@ -64,11 +72,11 @@
 <table>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
-    <td valign="middle">Claude Community - Estonia <sup><a href="https://cc-estonia.org">(14)</a></sup> as <em>Anthropic</em> Community Ambassador</td>
+    <td valign="middle">Claude Community - Estonia <sup><a href="https://cc-estonia.org">(17)</a></sup> as <em>Anthropic</em> Community Ambassador</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle">AWS User Group Tallinn <sup><a href="https://www.meetup.com/aws-user-group-tallinn/">(15)</a></sup> as <em>AWS User Group Leader</em></td>
+    <td valign="middle">AWS User Group Tallinn <sup><a href="https://www.meetup.com/aws-user-group-tallinn/">(18)</a></sup> as <em>AWS User Group Leader</em></td>
   </tr>
 </table>
 
