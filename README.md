@@ -31,8 +31,8 @@
     <td valign="middle"><code>promptfoo</code> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(8)</a></sup></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi-light.svg" height="32" alt="AI Security Institute"></picture></td>
-    <td valign="middle">AISI <code>inspect_evals</code> (MCPTox) <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(9)</a></sup></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="32" alt="AI Security Institute"></td>
+    <td valign="middle">AISI <code>inspect_evals</code> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(9)</a></sup></td>
   </tr>
 </table>
 
