@@ -1,23 +1,23 @@
 ### Some of my contributions
 
-<img src="https://github.com/NVIDIA.png" width="24" alt="NVIDIA"> [NVIDIA `garak`](https://github.com/NVIDIA/garak/pull/1504)  
-<img src="https://github.com/OWASP.png" width="24" alt="OWASP"> [OWASP Top 10 LLM](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/pull/77)  
-<img src="https://github.com/OWASP.png" width="24" alt="OWASP"> [OWASP Top 10 ASI](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pull/729)  
-<img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS `strands-agents` SDK](https://github.com/strands-agents/harness-sdk/pull/112)  
-<img src="https://github.com/x402-foundation.png" width="24" alt="x402"> [`x402`](https://github.com/x402-foundation/x402/pull/178)  
-<img src="https://github.com/finos.png" width="24" alt="FINOS"> [FINOS AI Governance Framework](https://github.com/finos/ai-governance-framework/pull/331)
+<img src="https://github.com/NVIDIA.png" width="24" alt="NVIDIA"> NVIDIA `garak` <sup>[ref](https://github.com/NVIDIA/garak/pull/1504)</sup>  
+<img src="https://github.com/OWASP.png" width="24" alt="OWASP"> OWASP Top 10 LLM <sup>[ref](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/pull/77)</sup>  
+<img src="https://github.com/OWASP.png" width="24" alt="OWASP"> OWASP Top 10 ASI <sup>[ref](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pull/729)</sup>  
+<img src="https://github.com/aws.png" width="24" alt="AWS"> AWS `strands-agents` SDK <sup>[ref](https://github.com/strands-agents/harness-sdk/pull/112)</sup>  
+<img src="https://github.com/x402-foundation.png" width="24" alt="x402"> `x402` <sup>[ref](https://github.com/x402-foundation/x402/pull/178)</sup>  
+<img src="https://github.com/finos.png" width="24" alt="FINOS"> FINOS AI Governance Framework <sup>[ref](https://github.com/finos/ai-governance-framework/pull/331)</sup>
 
 ### Some of my talks
 
-<img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS Summit, Zurich](https://aws.amazon.com/events/summits/zurich/) Hands-on security patterns  
-<img src="https://github.com/anthropics.png" width="24" alt="Anthropic"> [Anthropic Code w/ Claude, London](https://claude.com/code-with-claude/london) [Fighting financial crime with Claude Cowork](https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork)  
-<img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS Agentic AI Security Forum, Zurich](https://agentic-ai-security-forum-swiss.splashthat.com/) Securing Agentic AI systems  
-<img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS Dev Day](https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience), [Community Day](https://aws.amazon.com/events/community-day/), [Copenhagen](https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience), [Stockholm](https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience), [San Francisco](https://aws.amazon.com/startups/events/aws-ai-dev-day-san-francisco-mcp-deep-dive) Multi-Agent AI Systems  
+<img src="https://github.com/aws.png" width="24" alt="AWS"> AWS Summit, Zurich <sup>[ref](https://aws.amazon.com/events/summits/zurich/)</sup> Hands-on security patterns  
+<img src="https://github.com/anthropics.png" width="24" alt="Anthropic"> Anthropic Code w/ Claude, London <sup>[ref](https://claude.com/code-with-claude/london)</sup> Fighting financial crime with Claude Cowork <sup>[ref](https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork)</sup>  
+<img src="https://github.com/aws.png" width="24" alt="AWS"> AWS Agentic AI Security Forum, Zurich <sup>[ref](https://agentic-ai-security-forum-swiss.splashthat.com/)</sup> Securing Agentic AI systems  
+<img src="https://github.com/aws.png" width="24" alt="AWS"> AWS Dev Day, Community Day, Copenhagen <sup>[ref](https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience)</sup>, Stockholm <sup>[ref](https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience)</sup>, San Francisco <sup>[ref](https://aws.amazon.com/startups/events/aws-ai-dev-day-san-francisco-mcp-deep-dive)</sup> Multi-Agent AI Systems  
 
 ### Communities I represent
 
-<img src="https://github.com/anthropics.png" width="24" alt="Anthropic"> [Claude Community - Estonia](https://cc-estonia.org) as _Anthropic_ Community Ambassador  
-<img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS User Group Tallinn](https://www.meetup.com/aws-user-group-tallinn/) as _AWS User Group Leader_  
+<img src="https://github.com/anthropics.png" width="24" alt="Anthropic"> Claude Community - Estonia <sup>[ref](https://cc-estonia.org)</sup> as _Anthropic_ Community Ambassador  
+<img src="https://github.com/aws.png" width="24" alt="AWS"> AWS User Group Tallinn <sup>[ref](https://www.meetup.com/aws-user-group-tallinn/)</sup> as _AWS User Group Leader_  
 
 ### A bit about me
 
