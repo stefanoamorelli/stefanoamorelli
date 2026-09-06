@@ -1,4 +1,4 @@
-# Some of my contributions
+### Some of my contributions
 
 <img src="https://github.com/NVIDIA.png" width="24" alt="NVIDIA"> [NVIDIA `garak`](https://github.com/NVIDIA/garak/pull/1504)  
 <img src="https://github.com/OWASP.png" width="24" alt="OWASP"> [OWASP Top 10 LLM](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/pull/77)  
@@ -7,19 +7,19 @@
 <img src="https://github.com/x402-foundation.png" width="24" alt="x402"> [`x402`](https://github.com/x402-foundation/x402/pull/178)  
 <img src="https://github.com/finos.png" width="24" alt="FINOS"> [FINOS AI Governance Framework](https://github.com/finos/ai-governance-framework/pull/331)
 
-# Some of my talks
+### Some of my talks
 
 <img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS Summit, Zurich](https://aws.amazon.com/events/summits/zurich/) Hands-on security patterns  
 <img src="https://github.com/anthropics.png" width="24" alt="Anthropic"> [Anthropic Code w/ Claude, London](https://claude.com/code-with-claude/london) [Fighting financial crime with Claude Cowork](https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork)  
 <img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS Agentic AI Security Forum, Zurich](https://agentic-ai-security-forum-swiss.splashthat.com/) Securing Agentic AI systems  
 <img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS Dev Day](https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience), [Community Day](https://aws.amazon.com/events/community-day/), [Copenhagen](https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience), [Stockholm](https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience), [San Francisco](https://aws.amazon.com/startups/events/aws-ai-dev-day-san-francisco-mcp-deep-dive) Multi-Agent AI Systems  
 
-# Communities I represent
+### Communities I represent
 
 <img src="https://github.com/anthropics.png" width="24" alt="Anthropic"> [Claude Community - Estonia](https://cc-estonia.org) as _Anthropic_ Community Ambassador  
 <img src="https://github.com/aws.png" width="24" alt="AWS"> [AWS User Group Tallinn](https://www.meetup.com/aws-user-group-tallinn/) as _AWS User Group Leader_  
 
-# A bit about me
+### A bit about me
 
 I grew up in a small town in Sicily where I developed my passion for coding at a very young age.
 
@@ -31,7 +31,7 @@ Now I work for [Qonto](https://qonto.com), in our internal AI Lab, building busi
 
 Most recently, I shipped 0->1 the first MCP server for business banking and financial tools in Europe, reaching PMF in the first month, with a current MoM adoption growth of >150%.
 
-# Values I believe in
+### Values I believe in
 
 - Safety: to build technology that benefits its end users and that we can trust as society;
 - Ownership: to take responsibility of what I do end-to-end;
@@ -39,7 +39,7 @@ Most recently, I shipped 0->1 the first MCP server for business banking and fina
 
 I thrive in chaos and ambiguity. Generally low-ego, I like fast-moving, competitive markets, and search for the biggest impact.
 
-# Contact
+### Contact
 
 `stefano@amorelli.tech`
 `stefano.amorelli@owasp.org`
