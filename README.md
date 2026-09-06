@@ -92,7 +92,7 @@
 
 I grew up in a small town in Sicily where I developed my passion for coding at a very young age.
 
-In 2019, I moved to Estonia, the country with the highest startup unicorn per capita in Europe, and created my own company advising digital native businesses on technical solutions and teams.
+In 2019, I moved to Estonia, the country with the highest startup unicorn per capita in Europe, and created my own company advising digital native businesses on technical solutions.
 
 Since then, I built (often 0->1) products for companies in EU and US, serving up to 2M users, and reaching >40M seed-stage valuations for my clients.
 
