@@ -4,19 +4,19 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
-    <td valign="middle">NVIDIA <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td>
+    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle">OWASP Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(3)</a></sup></td>
+    <td valign="middle"><b>OWASP</b> Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(3)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle">OWASP Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(4)</a></sup></td>
+    <td valign="middle"><b>OWASP</b> Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(4)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle">AWS <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td>
+    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linuxfoundation/ffffff"><img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="32" alt="Linux Foundation"></picture></td>
@@ -24,15 +24,19 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></td>
-    <td valign="middle">FINOS AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(7)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(8)</a></sup></td>
+    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(7)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(8)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-light.svg" height="32" alt="OpenAI"></picture></td>
-    <td valign="middle">OpenAI <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td>
+    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="26" alt="AI Security Institute"></td>
-    <td valign="middle">UK AI Security Institute <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(13)</a></sup></td>
+    <td valign="middle"><b>UK AI Security Institute</b> <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(13)</a></sup></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="88"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></td>
+    <td valign="middle"><b>European Space Agency</b> edge inference onboard of satellites <sup><i>(wip)</i></sup></td>
   </tr>
 </table>
 
@@ -45,7 +49,7 @@
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Summit, Zurich</b> <sup><a href="https://aws.amazon.com/events/summits/zurich/">(14)</a></sup></td>
-    <td valign="middle">Hands-on security patterns</td>
+    <td valign="middle">Hands-on Security Patterns for Agents in Production</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
@@ -55,17 +59,17 @@
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Agentic AI Security Forum, Zurich</b> <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(17)</a></sup></td>
-    <td valign="middle">Securing Agentic AI systems</td>
+    <td valign="middle">Securing Agentic AI Systems</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Dev Day, Copenhagen</b> <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(18)</a></sup> <b>&amp; Stockholm</b> <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(19)</a></sup></td>
-    <td valign="middle">Multi-Agent AI Systems</td>
+    <td valign="middle">Multi-Agent AI Systems Architectural Patterns</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Community Day, San Francisco</b> <sup><a href="https://www.aws-cscd.com/">(20)</a></sup></td>
-    <td valign="middle">OWASP Top 10 for Agentic AI</td>
+    <td valign="middle">Applied OWASP Top 10 for Agentic AI (ASI)</td>
   </tr>
 </table>
 
@@ -109,6 +113,6 @@ Most recently, I shipped 0->1 the first MCP server for business banking and fina
 - Ownership: to take responsibility of what I do end-to-end;
 - Mastery: to know my craft deeply.
 
-I thrive in chaos and ambiguity. Generally low-ego, I look for the biggest impact I can have in fast-moving, and highly competitive industries.
+I thrive in chaos and ambiguity. Generally low-ego, I look for the biggest impact I can have in fast-moving and highly competitive industries.
 
 </details>
