@@ -69,7 +69,7 @@
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Community Day</b>, San Francisco <sup><a href="https://www.aws-cscd.com/">(20)</a></sup></td>
-    <td valign="middle">Applied OWASP Top 10 for Agentic AI (ASI)</td>
+    <td valign="middle">Applied OWASP Top 10 for Agentic Applications (ASI)</td>
   </tr>
 </table>
 
