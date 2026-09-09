@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></td>
-    <td valign="middle"><b>European Space Agency</b> edge inference onboard of satellites <sup><i>(wip)</i></sup></td>
+    <td valign="middle"><b>European Space Agency</b>, edge inference onboard of satellites <sup><i>(wip)</i></sup></td>
   </tr>
 </table>
 
@@ -48,27 +48,27 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Summit, Zurich</b> <sup><a href="https://aws.amazon.com/events/summits/zurich/">(14)</a></sup></td>
+    <td valign="middle"><b>AWS Summit</b>, Zurich <sup><a href="https://aws.amazon.com/events/summits/zurich/">(14)</a></sup></td>
     <td valign="middle">Hands-on Security Patterns for Agents in Production</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
-    <td valign="middle"><b>Anthropic Code w/ Claude, London</b> <sup><a href="https://claude.com/code-with-claude/london">(15)</a></sup></td>
+    <td valign="middle"><b>Anthropic Code w/ Claude</b>, London <sup><a href="https://claude.com/code-with-claude/london">(15)</a></sup></td>
     <td valign="middle">Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">(16)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Agentic AI Security Forum, Zurich</b> <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(17)</a></sup></td>
+    <td valign="middle"><b>AWS Agentic AI Security Forum</b> Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(17)</a></sup></td>
     <td valign="middle">Securing Agentic AI Systems</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Dev Day, Copenhagen</b> <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(18)</a></sup> <b>&amp; Stockholm</b> <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(19)</a></sup></td>
+    <td valign="middle"><b>AWS Dev Day</b>, Copenhagen <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(18)</a></sup> &amp; Stockholm <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(19)</a></sup></td>
     <td valign="middle">Multi-Agent AI Systems Architectural Patterns</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Community Day, San Francisco</b> <sup><a href="https://www.aws-cscd.com/">(20)</a></sup></td>
+    <td valign="middle"><b>AWS Community Day</b>, San Francisco <sup><a href="https://www.aws-cscd.com/">(20)</a></sup></td>
     <td valign="middle">Applied OWASP Top 10 for Agentic AI (ASI)</td>
   </tr>
 </table>
@@ -81,11 +81,11 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
-    <td valign="middle">Claude Community - Estonia <sup><a href="https://cc-estonia.org">(21)</a></sup> as <em>Anthropic</em> Community Ambassador</td>
+    <td valign="middle">Claude Community - Estonia <sup><a href="https://luma.com/user/stefanoamorelli">(21)</a></sup> as <b>Anthropic</b> Community Ambassador</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle">AWS User Group Tallinn <sup><a href="https://www.meetup.com/aws-user-group-tallinn/">(22)</a></sup> as <em>AWS User Group Leader</em></td>
+    <td valign="middle">AWS User Group Tallinn <sup><a href="https://www.meetup.com/aws-user-group-tallinn/">(22)</a></sup> as <b>AWS User Group Leader</b></td>
   </tr>
 </table>
 
@@ -100,9 +100,9 @@ In 2019, I moved to Estonia, the country with the highest startup unicorn per ca
 
 Since then, I built (often 0->1) products for companies in EU and US, serving up to 2M users, and reaching >40M seed-stage valuations for my clients.
 
-Now I work for [Qonto](https://qonto.com), in our internal AI Lab, building business banking and financial tools for more than 600k business customers in Europe.
+Now I work for [Qonto](https://qonto.com), in our internal AI Lab, building AI-powered business banking and financial tools for more than 600k business customers in Europe.
 
-Most recently, I shipped 0->1 the first MCP server for business banking and financial tools in Europe, reaching PMF in the first month, with a current MoM adoption growth of >150%.
+Most recently, I shipped 0->1 the first MCP server for business banking and financial tools in EU.
 
 </details>
 
