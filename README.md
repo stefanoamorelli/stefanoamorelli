@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Agentic AI Security Forum</b> Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(17)</a></sup></td>
+    <td valign="middle"><b>AWS Agentic AI Security Forum</b>, Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(17)</a></sup></td>
     <td valign="middle">Securing Agentic AI Systems</td>
   </tr>
   <tr>
