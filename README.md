@@ -96,11 +96,11 @@
 
 I grew up in a small town in Sicily where I developed my passion for coding at a very young age.
 
-In 2019, I moved to Estonia, the country with the highest startup unicorn per capita in Europe, and created my own company advising digital native businesses on technical solutions.
+In 2019 I moved to Estonia, the country with the highest startup unicorn per capita in Europe, and created my own company advising businesses in EU and US on how to build and launch their product, from a technical perspective.
 
-Since then, I built (often 0→1) products for companies in EU and US, serving up to 2M users, and reaching >40M seed-stage valuations for my clients.
+Since then I built (often 0→1) products serving up to 2M users, and reaching >40M seed-stage valuations.
 
-Now I work for [Qonto](https://qonto.com), in our internal AI Lab, building AI-powered business banking and financial tools for more than 600k business customers.
+Now I work for [Qonto](https://qonto.com), as Senior Staff Software Engineer (Applied AI) in our internal AI Lab, building AI-powered business banking and financial tools solutions for more than 600k business customers.
 
 Most recently, I shipped 0→1 the first MCP server for business banking and financial tools in EU.
 
