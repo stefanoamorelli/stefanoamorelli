@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linuxfoundation/ffffff"><img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="32" alt="Linux Foundation"></picture></td>
-    <td valign="middle"><a href="https://github.com/x402-foundation/x402"><code>x402</code></a> <sup><a href="https://github.com/x402-foundation/x402/pull/178">(6)</a></sup></td><td>Industry standard for safe agentic payments</td>
+    <td valign="middle"><a href="https://github.com/x402-foundation/x402"><code>x402</code></a> <sup><a href="https://github.com/x402-foundation/x402/pull/178">(6)</a></sup></td><td>Standard for safe agentic payments</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></td>
