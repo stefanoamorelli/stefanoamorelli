@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
-    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td><td>Generative AI safety assessment framework</td>
+    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td><td>GenAI safety assessment framework</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
