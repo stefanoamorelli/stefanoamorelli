@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-light.svg" height="32" alt="OpenAI"></picture></td>
-    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td><td>Red-teaming and evals framework for LLMs</td>
+    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td><td>Red-teaming framework for LLMs</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="26" alt="AI Security Institute"></td>
