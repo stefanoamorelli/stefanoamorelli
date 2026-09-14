@@ -4,39 +4,39 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
-    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td>
+    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td><td>Generative AI safety assessment framework</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle"><b>OWASP</b> Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(3)</a></sup></td>
+    <td valign="middle"><b>OWASP</b> Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(3)</a></sup></td><td>Top 10 risks and mitigations for LLMs</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle"><b>OWASP</b> Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(4)</a></sup></td>
+    <td valign="middle"><b>OWASP</b> Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(4)</a></sup></td><td>Top 10 risks and mitigations for agentic applications</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td>
+    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td><td>Open source toolkit for building production agents</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linuxfoundation/ffffff"><img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="32" alt="Linux Foundation"></picture></td>
-    <td valign="middle"><a href="https://github.com/x402-foundation/x402"><code>x402</code></a> <sup><a href="https://github.com/x402-foundation/x402/pull/178">(6)</a></sup></td>
+    <td valign="middle"><a href="https://github.com/x402-foundation/x402"><code>x402</code></a> <sup><a href="https://github.com/x402-foundation/x402/pull/178">(6)</a></sup></td><td>Industry standard for safe agentic payments</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></td>
-    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(7)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(8)</a></sup></td>
+    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(7)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(8)</a></sup></td><td>Compliance framework for GenAI in finance</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-light.svg" height="32" alt="OpenAI"></picture></td>
-    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td>
+    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td><td>Red-teaming and evals framework for LLMs</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="26" alt="AI Security Institute"></td>
-    <td valign="middle"><b>UK AI Security Institute</b> <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(13)</a></sup></td>
+    <td valign="middle"><b>UK AI Security Institute</b> <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(13)</a></sup></td><td>LLM security evals framework</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></td>
-    <td valign="middle"><b>European Space Agency</b>, edge inference onboard of satellites <sup><i>(wip)</i></sup></td>
+    <td valign="middle"><b>European Space Agency</b>, edge inference onboard of satellites <sup><i>(wip)</i></sup></td><td>Secure comms in space</td>
   </tr>
 </table>
 
