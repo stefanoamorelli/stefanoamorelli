@@ -44,6 +44,8 @@
 
 <details open>
 <summary><h3>Some of my talks</h3></summary>
+<img width="440" height="345" alt="Stefano Amorelli speaking at Anthropic conference" src="https://github.com/user-attachments/assets/ea943c71-5bd5-4850-b1f5-7738d0e161a3" />
+<img width="440" height="345" alt="Stefano Amorelli speaking at AWS Summit" src="https://github.com/user-attachments/assets/e2b38207-fa76-4d32-bf0c-f6f61048812e" />
 
 <table>
   <tr>
