@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></td>
-    <td valign="middle"><b>European Space Agency</b>, edge inference onboard of satellites <sup><i>(wip)</i></sup></td><td>Secure comms in space</td>
+    <td valign="middle"><b>European Space Agency</b>, inference onboard of satellites <sup><i>(wip)</i></sup></td><td>Secure comms in space</td>
   </tr>
 </table>
 
