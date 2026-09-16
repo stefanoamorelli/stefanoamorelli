@@ -114,7 +114,7 @@ Most recently, I shipped 0→1 the first MCP server for business banking and fin
 - Safety: to build technology that benefits its end users and that we can trust as society;
 - Ownership: to take responsibility of what I do end-to-end;
 - Mastery: to know my craft deeply;
-- Ambition: always desiring greater success.
+- Ambition: to always desire greater success.
 
 I thrive in chaos and ambiguity, looking for the biggest impact I can have in fast-moving and highly competitive industries.
 
