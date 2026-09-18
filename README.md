@@ -44,8 +44,8 @@
 
 <details open>
 <summary><h3>Some of my talks</h3></summary>
-<img width="420" height="325" alt="Stefano Amorelli speaking at Anthropic conference" src="https://github.com/user-attachments/assets/ea943c71-5bd5-4850-b1f5-7738d0e161a3" />
-<img width="420" height="325" alt="Stefano Amorelli speaking at AWS Summit" src="https://github.com/user-attachments/assets/e2b38207-fa76-4d32-bf0c-f6f61048812e" />
+<a href="https://github.com/user-attachments/assets/ea943c71-5bd5-4850-b1f5-7738d0e161a3"><img width="420" height="325" alt="Stefano Amorelli speaking at Anthropic conference" src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/talk-anthropic-code-with-claude-london.jpg" /></a>
+<a href="https://github.com/user-attachments/assets/e2b38207-fa76-4d32-bf0c-f6f61048812e"><img width="420" height="325" alt="Stefano Amorelli speaking at AWS Summit" src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/talk-aws-summit-zurich.jpg" /></a>
 
 <table>
   <tr>
