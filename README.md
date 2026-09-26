@@ -3,40 +3,50 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="88"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
-    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(1)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(2)</a></sup></td><td>GenAI safety assessment framework</td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
+    <td valign="middle"><b>OWASP</b> Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(1)</a></sup></td><td>Top 10 risks and mitigations for LLMs</td>
+    <td valign="middle"><b>co-author</b></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle"><b>OWASP</b> Top 10 LLM <sup><a href="https://genai.owasp.org/download/56857/">(3)</a></sup></td><td>Top 10 risks and mitigations for LLMs</td>
+    <td valign="middle"><b>OWASP</b> Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(2)</a></sup></td><td>Top 10 risks and mitigations for agents</td>
+    <td valign="middle"><b>co-author</b></td>
   </tr>
-  <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff"><img src="https://cdn.simpleicons.org/owasp/000000" height="32" alt="OWASP"></picture></td>
-    <td valign="middle"><b>OWASP</b> Top 10 ASI <sup><a href="https://genai.owasp.org/download/52117">(4)</a></sup></td><td>Top 10 risks and mitigations for agents</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td><td>OSS toolkit for building production agents</td>
-  </tr>
+ 
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linuxfoundation/ffffff"><img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="32" alt="Linux Foundation"></picture></td>
-    <td valign="middle"><a href="https://github.com/x402-foundation/x402"><code>x402</code></a> <sup><a href="https://github.com/x402-foundation/x402/pull/178">(6)</a></sup></td><td>Standard for safe agentic payments</td>
+    <td valign="middle">Linux Foundation <a href="https://github.com/x402-foundation/x402"><code>x402</code></a></td><td>Standard for safe agentic payments</td>
+    <td valign="middle"><b>chair of cards acceptance wg</b></td>
+  </tr>
+    <tr>
+    <td align="center" valign="middle" width="88"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
+    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(3)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(4)</a></sup></td><td>GenAI safety assessment framework</td>
+    <td valign="middle">contributor</td>
+  </tr>
+   <tr>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td><td>OSS toolkit for building production agents</td>
+    <td valign="middle">contributor</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></td>
-    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(7)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(8)</a></sup></td><td>Compliance framework for GenAI in finance</td>
+    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(6)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(7)</a></sup></td><td>Compliance framework for GenAI in finance</td>
+    <td valign="middle">core contributor</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/openai-light.svg" height="32" alt="OpenAI"></picture></td>
-    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(11)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(12)</a></sup></td><td>Red-teaming framework for LLMs</td>
+    <td valign="middle"><b>OpenAI</b> <a href="https://github.com/promptfoo/promptfoo"><code>promptfoo</code></a> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6548">(8)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6694">(9)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/6384">(10)</a></sup> <sup><a href="https://github.com/promptfoo/promptfoo/pull/10335">(11)</a></sup></td><td>Red-teaming framework for LLMs</td>
+    <td valign="middle">contributor</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="26" alt="AI Security Institute"></td>
-    <td valign="middle"><b>UK AI Security Institute</b> <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(13)</a></sup></td><td>LLM security evals framework</td>
+    <td valign="middle"><b>UK AI Security Institute</b> <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(12)</a></sup></td><td>LLM security evals framework</td>
+    <td valign="middle">contributor</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></td>
     <td valign="middle"><b>European Space Agency</b>, inference onboard of satellites <sup><i>(wip)</i></sup></td><td>Secure comms in space</td>
+    <td valign="middle">project lead</td>
   </tr>
 </table>
 
@@ -50,27 +60,27 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Summit</b>, Zurich <sup><a href="https://aws.amazon.com/events/summits/zurich/">(14)</a></sup></td>
+    <td valign="middle"><b>AWS Summit</b>, Zurich <sup><a href="https://aws.amazon.com/events/summits/zurich/">(13)</a></sup></td>
     <td valign="middle">Hands-on Security Patterns for Agents in Production</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff"><img src="https://cdn.simpleicons.org/anthropic/191919" height="32" alt="Anthropic"></picture></td>
-    <td valign="middle"><b>Anthropic Code w/ Claude</b>, London <sup><a href="https://claude.com/code-with-claude/london">(15)</a></sup></td>
-    <td valign="middle">Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">(16)</a></sup></td>
+    <td valign="middle"><b>Anthropic Code w/ Claude</b>, London <sup><a href="https://claude.com/code-with-claude/london">(14)</a></sup></td>
+    <td valign="middle">Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">(15)</a></sup></td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Agentic AI Security Forum</b>, Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(17)</a></sup></td>
+    <td valign="middle"><b>AWS Agentic AI Security Forum</b>, Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(16)</a></sup></td>
     <td valign="middle">Securing Agentic AI Systems</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Dev Day</b>, Copenhagen <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(18)</a></sup> &amp; Stockholm <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(19)</a></sup></td>
+    <td valign="middle"><b>AWS Dev Day</b>, Copenhagen <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(17)</a></sup> &amp; Stockholm <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(18)</a></sup></td>
     <td valign="middle">Multi-Agent AI Systems Architectural Patterns</td>
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS Community Day</b>, San Francisco <sup><a href="https://www.aws-cscd.com/">(20)</a></sup></td>
+    <td valign="middle"><b>AWS Community Day</b>, San Francisco <sup><a href="https://www.aws-cscd.com/">(19)</a></sup></td>
     <td valign="middle">Applied OWASP Top 10 for Agentic Applications (ASI)</td>
   </tr>
 </table>
@@ -102,9 +112,9 @@ In 2019 I moved to Estonia, the country with the highest startup unicorn per cap
 
 Since then I built (often 0→1) products serving up to 2M users, and reaching >40M seed-stage valuations.
 
-Now I work for [Qonto](https://qonto.com), as Senior Staff Software Engineer (Applied AI) in our internal AI Lab, building AI-powered business banking and financial tools solutions for more than 600k business customers.
+Now I work for [Qonto](https://qonto.com), in Applied AI within our internal AI Lab, building AI-powered business banking and financial tools solutions for more than 600k business customers.
 
-Most recently, I shipped 0→1 the first MCP server for business banking and financial tools in EU.
+Most recently, I shipped 0→1 the first MCP server, skills marketplace, and CLI for business banking and financial tools in EU.
 
 </details>
 
@@ -116,6 +126,6 @@ Most recently, I shipped 0→1 the first MCP server for business banking and fin
 - Mastery: to know my craft deeply;
 - Ambition: to always desire greater success.
 
-I thrive in chaos and ambiguity, looking for the biggest impact I can have in fast-moving and highly competitive industries.
+I thrive in chaos and ambiguity, looking for the biggest impact I can have in industries that are fast-moving and highly competitive.
 
 </details>
