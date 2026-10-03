@@ -19,7 +19,7 @@
     <td valign="middle"><b>chair of cards acceptance wg</b></td>
   </tr>
     <tr>
-    <td align="center" valign="middle" width="88"><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></td>
+    <td align="center" valign="middle" width="88"><picture><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></picture></td>
     <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(3)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(4)</a></sup></td><td>GenAI safety assessment framework</td>
     <td valign="middle">contributor</td>
   </tr>
@@ -29,7 +29,7 @@
     <td valign="middle">contributor</td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></td>
+    <td align="center" valign="middle" width="88"><picture><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></picture></td>
     <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(6)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(7)</a></sup></td><td>Compliance framework for GenAI in finance</td>
     <td valign="middle">core contributor</td>
   </tr>
@@ -39,12 +39,12 @@
     <td valign="middle">contributor</td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="26" alt="AI Security Institute"></td>
+    <td align="center" valign="middle" width="88"><picture><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aisi.svg" height="26" alt="AI Security Institute"></picture></td>
     <td valign="middle"><b>UK AI Security Institute</b> <a href="https://github.com/UKGovernmentBEIS/inspect_evals"><code>inspect_evals</code></a> <sup><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/1755">(12)</a></sup></td><td>LLM security evals framework</td>
     <td valign="middle">contributor</td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></td>
+    <td align="center" valign="middle" width="88"><picture><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/European_Space_Agency_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="26" alt="ESA - European Space Agency"></picture></td>
     <td valign="middle"><b>European Space Agency</b>, inference onboard of satellites <sup><i>(wip)</i></sup></td><td>Secure comms in space</td>
     <td valign="middle">project lead</td>
   </tr>
@@ -126,6 +126,6 @@ Most recently, I shipped 0→1 the first MCP server, skills marketplace, and CLI
 - Mastery: to know my craft deeply;
 - Ambition: to always desire greater success.
 
-I thrive in chaos and ambiguity, looking for the biggest impact I can have in industries that are fast-moving and highly competitive.
+I thrive in chaos and ambiguity, figuring out complexity in autonomy and looking for the biggest impact I can have in industries that are fast-moving and highly competitive.
 
 </details>
