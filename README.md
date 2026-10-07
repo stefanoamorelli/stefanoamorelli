@@ -15,7 +15,7 @@
  
   <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linuxfoundation/ffffff"><img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="32" alt="Linux Foundation"></picture></td>
-    <td valign="middle">Linux Foundation <a href="https://github.com/x402-foundation/x402"><code>x402</code></a></td><td>Standard for safe agentic payments</td>
+    <td valign="middle">Linux Foundation <a href="https://github.com/x402-foundation/x402"><code>x402</code></a></td><td>Open protocol for safe agentic payments</td>
     <td valign="middle"><b>chair of cards acceptance wg</b></td>
   </tr>
   <tr>
