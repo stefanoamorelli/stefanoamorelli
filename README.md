@@ -20,17 +20,17 @@
   </tr>
   <tr>
     <td align="center" valign="middle" width="88"><picture><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/finos.svg" height="32" alt="FINOS"></picture></td>
-    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(6)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(7)</a></sup></td><td>Compliance framework for GenAI in finance</td>
+    <td valign="middle"><b>FINOS</b> AI Governance Framework <sup><a href="https://github.com/finos/ai-governance-framework/pull/331">(3)</a></sup> <sup><a href="https://github.com/finos/ai-governance-framework/pull/335">(4)</a></sup></td><td>Compliance framework for GenAI in finance</td>
     <td valign="middle"><b>maintainer</b></td>
   </tr>
     <tr>
     <td align="center" valign="middle" width="88"><picture><img src="https://cdn.simpleicons.org/nvidia" height="32" alt="NVIDIA"></picture></td>
-    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(3)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(4)</a></sup></td><td>GenAI safety assessment framework</td>
+    <td valign="middle"><b>NVIDIA</b> <a href="https://github.com/NVIDIA/garak"><code>garak</code></a> <sup><a href="https://github.com/NVIDIA/garak/pull/1504">(5)</a></sup> <sup><a href="https://github.com/NVIDIA/garak/pull/2090">(6)</a></sup></td><td>GenAI safety assessment framework</td>
     <td valign="middle">contributor</td>
   </tr>
    <tr>
     <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
-    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(5)</a></sup></td><td>OSS toolkit for building production agents</td>
+    <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(7)</a></sup></td><td>OSS toolkit for building production agents</td>
     <td valign="middle">contributor</td>
   </tr>
   <tr>
