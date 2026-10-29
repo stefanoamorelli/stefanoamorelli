@@ -29,7 +29,7 @@
     <td valign="middle">contributor</td>
   </tr>
    <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-light.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS</b> <a href="https://github.com/strands-agents/harness-sdk"><code>strands-agents</code></a> SDK <sup><a href="https://github.com/strands-agents/harness-sdk/pull/112">(7)</a></sup></td><td>OSS toolkit for building production agents</td>
     <td valign="middle">contributor</td>
   </tr>
@@ -59,7 +59,7 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-light.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Summit</b>, Zurich <sup><a href="https://aws.amazon.com/events/summits/zurich/">(13)</a></sup></td>
     <td valign="middle">Hands-on Security Patterns for Agents in Production</td>
   </tr>
@@ -69,17 +69,17 @@
     <td valign="middle">Fighting financial crime with Claude Cowork <sup><a href="https://claude.com/code-with-claude/session/ldn-ext-fighting-financial-crime-with-claude-cowork">(15)</a></sup></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-light.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Agentic AI Security Forum</b>, Zurich <sup><a href="https://agentic-ai-security-forum-swiss.splashthat.com/">(16)</a></sup></td>
     <td valign="middle">Securing Agentic AI Systems</td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-light.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Dev Day</b>, Copenhagen <sup><a href="https://aws-experience.com/emea/north/xe/69ffe/aws-dev-day-copenhagen-reimagining-the-developer-experience">(17)</a></sup> &amp; Stockholm <sup><a href="https://aws-experience.com/emea/north/e/618c0/aws-dev-day-stockholm-reimagining-the-developer-experience">(18)</a></sup></td>
     <td valign="middle">Multi-Agent AI Systems Architectural Patterns</td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-light.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle"><b>AWS Community Day</b>, San Francisco <sup><a href="https://www.aws-cscd.com/">(19)</a></sup></td>
     <td valign="middle">Applied OWASP Top 10 for Agentic Applications (ASI)</td>
   </tr>
@@ -96,7 +96,7 @@
     <td valign="middle">Claude Community - Estonia <sup><a href="https://luma.com/user/stefanoamorelli">(21)</a></sup> as <b>Anthropic</b> Community Ambassador</td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"></picture></td>
+    <td align="center" valign="middle" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-dark.svg"><img src="https://raw.githubusercontent.com/stefanoamorelli/stefanoamorelli/main/assets/aws-light.svg" height="32" alt="AWS"></picture></td>
     <td valign="middle">AWS User Group Tallinn <sup><a href="https://www.meetup.com/aws-user-group-tallinn/">(22)</a></sup> as <b>AWS User Group Leader</b></td>
   </tr>
 </table>
